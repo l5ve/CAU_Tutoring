@@ -1,0 +1,15 @@
+﻿  소스.c
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(92): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(33): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(37): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(43): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(121): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(131): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkhoyeon\downloads\consoleapplication1-20161004t041353z\consoleapplication1\consoleapplication1\소스.c(140): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  ConsoleApplication1.vcxproj -> C:\Users\ParkHoYeon\Downloads\ConsoleApplication1-20161004T041353Z\ConsoleApplication1\Debug\ConsoleApplication1.exe
